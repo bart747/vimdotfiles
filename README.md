@@ -1,1 +1,1 @@
-personal vim dotfiles. 
+Personal vim dotfiles: .gvimrc, .vimrc. 
